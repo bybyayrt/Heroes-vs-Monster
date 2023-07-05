@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Heroes_vs_Monster.Personnage">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAACAAAASIgBCAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Humain">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAQIAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Humain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Nain">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Loup">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Heroes">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Monstres">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAACAAAAEAAgAAAAAAAAgAA=</HashCode>
+      <FileName>Monstres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Orque">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Orque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heroes_vs_Monster.Dragonnet">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dragonnet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

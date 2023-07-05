@@ -1,0 +1,15 @@
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\bin\Debug\net6.0\Heroes vs Monster.exe
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\bin\Debug\net6.0\Heroes vs Monster.deps.json
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\bin\Debug\net6.0\Heroes vs Monster.runtimeconfig.json
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\bin\Debug\net6.0\Heroes vs Monster.dll
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\bin\Debug\net6.0\Heroes vs Monster.pdb
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.csproj.AssemblyReference.cache
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.AssemblyInfoInputs.cache
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.AssemblyInfo.cs
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.csproj.CoreCompileInputs.cache
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.dll
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\refint\Heroes vs Monster.dll
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.pdb
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\Heroes vs Monster.genruntimeconfig.cache
+C:\Users\o.vercleven\Desktop\Formation IT\C#\Heroes vs Monster\Heroes vs Monster\obj\Debug\net6.0\ref\Heroes vs Monster.dll
